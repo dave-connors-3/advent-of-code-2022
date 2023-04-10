@@ -1,4 +1,5 @@
 from aoc import day_4
+import pytest
 
 test_input = """2-4,6-8
 2-3,4-5
